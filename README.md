@@ -4,5 +4,5 @@
 
 ## Assignment
 
-Creating a product card with an image, title and description.
+Creating a product card with an image, title and description & design must be responsive to different screen sizes.
 
